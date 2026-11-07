@@ -237,7 +237,8 @@ Flowchart digunakan untuk menjelaskan alur proses aplikasi dari awal dijalankan 
 ### 5.2 Use Case Diagram
 
 
-<img width="741" height="935" alt="image" src="https://github.com/user-attachments/assets/ba5d9f83-0431-41ed-870c-15adc686d57e" />
+<img width="948" height="1195" alt="PA_Prisma-USE CASE FIKSSS drawio (1)" src="https://github.com/user-attachments/assets/6029e7bb-6abf-4061-9530-6371bec294bd" />
+ />
 
 
 
