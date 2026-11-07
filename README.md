@@ -15,19 +15,7 @@
   <img src="https://img.shields.io/badge/phpMyAdmin-F89C0E?style=for-the-badge&logo=phpmyadmin&logoColor=white"/>
 </p>
 
-----
 
-# KELOMPOK 15 CAPSTONE
-| No | Nama | NIM |
-|:---:|:---|:---:|
-| 1 | Aulia Sheva Savitri | 2509116001 |
-| 2 | Muhammad Yusri Jibran Sugiharta Jusuf | 2509116030 |
-| 3 | Jihan Shafira Rahmah| 2509116073 |
-| 4 | Otniel Putra Wardana | 2509116081 |
-
-</div>
-
-----
 
 ## 1. Nama Program
   <b>SISTEM INFORMASI MANAJEMEN KONTEN DAN JADWAL TAYANG PRISMA</b>
@@ -249,9 +237,11 @@ Use Case Diagram menggambarkan interaksi aktor dengan sistem Prisma TV:
 
 ### 5.3 Entity Relationship Diagram (ERD)
 
-<img width="1593" height="1064" alt="ERD LOGICAL PRISMA" src="https://github.com/user-attachments/assets/9745e123-7b77-435a-be71-06c4f37a38f0" />
+<img width="1228" height="821" alt="WhatsApp Image 2026-11-07 at 19 17 27" src="https://github.com/user-attachments/assets/eca9cf6b-7289-48bf-b2cc-ae5d69f7b604" />
 
-<img width="1458" height="1008" alt="ERD RELATIONAL PRISMA" src="https://github.com/user-attachments/assets/97d8f2c1-6576-426f-b692-7b7a1ad419df" />
+
+<img width="1458" height="1008" alt="WhatsApp Image 2026-11-07 at 19 17 44" src="https://github.com/user-attachments/assets/58a3b91b-7f32-4bbf-93a4-0a506e0ae750" />
+
 
 
 ERD mendefinisikan relasi tabel dalam database `prisma`, yang menghubungkan entitas induk `pengguna` dengan tabel turunan (`admin`, `petugas_jadwal`, `petugas_konten`), serta relasi transaksional ke tabel `program_tv`, `kanal`, `mitra`, `kerja_sama`, `konten`, `lampiran_konten`, `publikasi_konten`, dan `jadwal_tayang`.
@@ -471,3 +461,19 @@ Lampiran Konten adalah halaman pengelolaan file pendukung yang terhubung ke kont
 <img width="1893" height="1008" alt="image" src="https://github.com/user-attachments/assets/63bfdce9-6a24-4a0c-aed9-b1415b123b22" />
 
 Jadwal Tayang adalah halaman pengaturan tanggal dan waktu penayangan program yang hanya dapat diakses oleh Petugas Jadwal, berisi tabel daftar jadwal dengan program TV, kanal, tanggal, waktu, petugas, dan status, penyaring pencarian berdasarkan tanggal, waktu mulai, dan waktu selesai, serta tombol Tambah Jadwal, Ubah, Nonaktifkan, dan Hapus. Kegunaannya adalah membantu Petugas Jadwal menambah, memperbarui, menonaktifkan, menghapus, dan mencari jadwal agar penayangan setiap program tersusun rapi dan tidak bentrok.
+
+</details>
+
+----
+
+# KELOMPOK 15 CAPSTONE
+| No | Nama | NIM |
+|:---:|:---|:---:|
+| 1 | Aulia Sheva Savitri | 2509116001 |
+| 2 | Muhammad Yusri Jibran Sugiharta Jusuf | 2509116030 |
+| 3 | Jihan Shafira Rahmah| 2509116073 |
+| 4 | Otniel Putra Wardana | 2509116081 |
+
+</div>
+
+----
