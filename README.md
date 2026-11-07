@@ -249,9 +249,11 @@ Use Case Diagram menggambarkan interaksi aktor dengan sistem Prisma TV:
 
 ### 5.3 Entity Relationship Diagram (ERD)
 
-<img width="1593" height="1064" alt="ERD LOGICAL PRISMA" src="https://github.com/user-attachments/assets/9745e123-7b77-435a-be71-06c4f37a38f0" />
+<img width="1228" height="821" alt="WhatsApp Image 2026-11-07 at 19 00 08" src="https://github.com/user-attachments/assets/01307951-05a4-44dc-bd24-905f2ef8d320" />
 
-<img width="1458" height="1008" alt="ERD RELATIONAL PRISMA" src="https://github.com/user-attachments/assets/97d8f2c1-6576-426f-b692-7b7a1ad419df" />
+
+<img width="1458" height="1008" alt="WhatsApp Image 2026-11-07 at 19 00 26" src="https://github.com/user-attachments/assets/9a950e70-776d-425d-ad55-e944ec65b93e" />
+
 
 
 ERD mendefinisikan relasi tabel dalam database `prisma`, yang menghubungkan entitas induk `pengguna` dengan tabel turunan (`admin`, `petugas_jadwal`, `petugas_konten`), serta relasi transaksional ke tabel `program_tv`, `kanal`, `mitra`, `kerja_sama`, `konten`, `lampiran_konten`, `publikasi_konten`, dan `jadwal_tayang`.
